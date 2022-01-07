@@ -7,7 +7,7 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Contact",
-        href: "https://docs.pancakeswap.finance/contact-us",
+        href: "https://docs.respct.club/contact-us",
       },
       {
         label: "Blog",
@@ -15,11 +15,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Community",
-        href: "https://docs.pancakeswap.finance/contact-us/telegram",
+        href: "https://docs.respct.club/contact-us/telegram",
       },
       {
         label: "CAKE",
-        href: "https://docs.pancakeswap.finance/tokenomics/cake",
+        href: "https://docs.respct.club/tokenomics/cake",
       },
       {
         label: "—",
@@ -36,15 +36,15 @@ export const footerLinks: FooterLinkType[] = [
     items: [
       {
         label: "Customer",
-        href: "Support https://docs.pancakeswap.finance/contact-us/customer-support",
+        href: "Support https://docs.respct.club/contact-us/customer-support",
       },
       {
         label: "Troubleshooting",
-        href: "https://docs.pancakeswap.finance/help/troubleshooting",
+        href: "https://docs.respct.club/help/troubleshooting",
       },
       {
         label: "Guides",
-        href: "https://docs.pancakeswap.finance/get-started",
+        href: "https://docs.respct.club/get-started",
       },
     ],
   },
@@ -57,7 +57,7 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Documentation",
-        href: "https://docs.pancakeswap.finance",
+        href: "https://docs.respct.club",
       },
       {
         label: "Bug Bounty",
@@ -65,11 +65,11 @@ export const footerLinks: FooterLinkType[] = [
       },
       {
         label: "Audits",
-        href: "https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
+        href: "https://docs.respct.club/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited",
       },
       {
         label: "Careers",
-        href: "https://docs.pancakeswap.finance/hiring/become-a-chef",
+        href: "https://docs.respct.club/hiring/become-a-chef",
       },
     ],
   },
@@ -79,7 +79,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "Twitter",
-    href: "https://twitter.com/pancakeswap",
+    href: "https://twitter.com/RespctClub",
   },
   {
     label: "Telegram",
@@ -87,77 +87,77 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/pancakeswap",
+        href: "https://t.me/respctclub",
       },
-      {
-        label: "Bahasa Indonesia",
-        href: "https://t.me/PancakeSwapIndonesia",
-      },
-      {
-        label: "中文",
-        href: "https://t.me/PancakeSwap_CN",
-      },
-      {
-        label: "Tiếng Việt",
-        href: "https://t.me/PancakeSwapVN",
-      },
-      {
-        label: "Italiano",
-        href: "https://t.me/pancakeswap_ita",
-      },
-      {
-        label: "русский",
-        href: "https://t.me/pancakeswap_ru",
-      },
-      {
-        label: "Türkiye",
-        href: "https://t.me/pancakeswapturkiye",
-      },
-      {
-        label: "Português",
-        href: "https://t.me/PancakeSwapPortuguese",
-      },
-      {
-        label: "Español",
-        href: "https://t.me/PancakeswapEs",
-      },
-      {
-        label: "日本語",
-        href: "https://t.me/pancakeswapjp",
-      },
-      {
-        label: "Français",
-        href: "https://t.me/pancakeswapfr",
-      },
-      {
-        label: "Announcements",
-        href: "https://t.me/PancakeSwapAnn",
-      },
-      {
-        label: "Whale Alert",
-        href: "https://t.me/PancakeSwapWhales",
-      },
+      // {
+      //   label: "Bahasa Indonesia",
+      //   href: "https://t.me/PancakeSwapIndonesia",
+      // },
+      // {
+      //   label: "中文",
+      //   href: "https://t.me/PancakeSwap_CN",
+      // },
+      // {
+      //   label: "Tiếng Việt",
+      //   href: "https://t.me/PancakeSwapVN",
+      // },
+      // {
+      //   label: "Italiano",
+      //   href: "https://t.me/pancakeswap_ita",
+      // },
+      // {
+      //   label: "русский",
+      //   href: "https://t.me/pancakeswap_ru",
+      // },
+      // {
+      //   label: "Türkiye",
+      //   href: "https://t.me/pancakeswapturkiye",
+      // },
+      // {
+      //   label: "Português",
+      //   href: "https://t.me/PancakeSwapPortuguese",
+      // },
+      // {
+      //   label: "Español",
+      //   href: "https://t.me/PancakeswapEs",
+      // },
+      // {
+      //   label: "日本語",
+      //   href: "https://t.me/pancakeswapjp",
+      // },
+      // {
+      //   label: "Français",
+      //   href: "https://t.me/pancakeswapfr",
+      // },
+      // {
+      //   label: "Announcements",
+      //   href: "https://t.me/PancakeSwapAnn",
+      // },
+      // {
+      //   label: "Whale Alert",
+      //   href: "https://t.me/PancakeSwapWhales",
+      // },
     ],
   },
   {
     label: "Reddit",
     icon: "Reddit",
-    href: "https://reddit.com/r/pancakeswap",
+    href: "https://reddit.com/r/respctclub",
   },
   {
     label: "Instagram",
     icon: "Instagram",
-    href: "https://instagram.com/pancakeswap_official",
+    href: "https://instagram.com/respctclub",
   },
   {
     label: "Github",
     icon: "Github",
-    href: "https://github.com/pancakeswap/",
+    href: "https://github.com/respct-club/",
   },
   {
     label: "Discord",
     icon: "Discord",
-    href: "https://discord.gg/pancakeswap",
+    href: "https://discord.gg/respct",
   },
 ];
 

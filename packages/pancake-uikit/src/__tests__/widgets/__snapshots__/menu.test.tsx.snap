@@ -1880,7 +1880,7 @@ exports[`renders correctly 1`] = `
           >
             <a
               class="c27"
-              href="https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+              href="https://app.respct.club/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
               target="_blank"
             >
               <svg
@@ -2390,7 +2390,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/contact-us"
+                    href="https://docs.respct.club/contact-us"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2416,7 +2416,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/contact-us/telegram"
+                    href="https://docs.respct.club/contact-us/telegram"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2429,7 +2429,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/tokenomics/cake"
+                    href="https://docs.respct.club/tokenomics/cake"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2473,7 +2473,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="Support https://docs.pancakeswap.finance/contact-us/customer-support"
+                    href="Support https://docs.respct.club/contact-us/customer-support"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2486,7 +2486,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/help/troubleshooting"
+                    href="https://docs.respct.club/help/troubleshooting"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2499,7 +2499,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/get-started"
+                    href="https://docs.respct.club/get-started"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2521,7 +2521,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://github.com/pancakeswap"
+                    href="https://github.com/respct-club"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2534,7 +2534,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance"
+                    href="https://docs.respct.club"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2560,7 +2560,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
+                    href="https://docs.respct.club/help/faq#is-pancakeswap-safe-has-pancakeswap-been-audited"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2573,7 +2573,7 @@ exports[`renders correctly 1`] = `
                   <a
                     class="c61 c62"
                     color="#F4EEFF"
-                    href="https://docs.pancakeswap.finance/hiring/become-a-chef"
+                    href="https://docs.respct.club/hiring/become-a-chef"
                     rel="noreferrer noopener"
                     target="_blank"
                   >
@@ -2673,7 +2673,7 @@ exports[`renders correctly 1`] = `
                 aria-label="Twitter"
                 class="c69 c62"
                 color="primary"
-                href="https://twitter.com/pancakeswap"
+                href="https://twitter.com/RespctClub"
                 rel="noreferrer noopener"
                 target="_blank"
               >
@@ -3238,7 +3238,7 @@ exports[`renders correctly 1`] = `
                 >
                   <a
                     class="c27"
-                    href="https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+                    href="https://app.respct.club/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
                     target="_blank"
                   >
                     <svg
@@ -3393,7 +3393,7 @@ exports[`renders correctly 1`] = `
                 </div>
                 <a
                   class="c93"
-                  href="https://pancakeswap.finance/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
+                  href="https://app.respct.club/swap?outputCurrency=0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82"
                   scale="sm"
                   target="_blank"
                 >

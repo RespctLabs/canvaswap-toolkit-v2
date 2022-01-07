@@ -1,20 +1,20 @@
 {
-  "name": "pancake-toolkit",
-  "version": "1.0.0",
-  "description": "Pancake frontend packages",
-  "private": true,
+  "name": "@respctclub/uikit",
+  "version": "0.0.2",
+  "description": "Respct.club Frontend Package",
+  "private": false,
   "workspaces": [
     "packages/*"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/respct-club/canvaswap-toolkit-v2.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
+    "url": "https://github.com/respct-club/canvaswap-toolkit-v2/issues"
   },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
+  "homepage": "https://github.com/respct-club/canvaswap-toolkit-v2#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",

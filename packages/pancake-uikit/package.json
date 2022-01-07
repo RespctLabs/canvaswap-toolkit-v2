@@ -1,7 +1,7 @@
 {
-  "name": "@canvaswap-v2/uikit",
-  "version": "0.1.0",
-  "description": "Set of UI components for canvaswap projects",
+  "name": "@respctclub/uikit",
+  "version": "0.0.4",
+  "description": "Set of UI components for RespctClub projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
